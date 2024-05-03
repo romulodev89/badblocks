@@ -5,7 +5,7 @@ Este é um script Python simples para verificar setores defeituosos (bad blocks)
 ## Como Usar
 
 1. **Baixe o Script:**
-   - Clone este repositório ou baixe o arquivo `verificar_badblocks.py` diretamente.
+   - Clone este repositório ou baixe o arquivo `badblocks.py` diretamente.
 
 2. **Garanta Permissões de Root:**
    - Este script precisa ser executado com privilégios de root para acessar diretamente o disco rígido. Portanto, antes de executar o script, verifique se você tem permissões de root.
