@@ -11,10 +11,10 @@ Este é um script Python simples para verificar setores defeituosos (bad blocks)
    - Este script precisa ser executado com privilégios de root para acessar diretamente o disco rígido. Portanto, antes de executar o script, verifique se você tem permissões de root.
 
 3. **Execute o Script:**
-   - Abra um terminal e navegue até o diretório onde o script `verificar_badblocks.py` está localizado.
+   - Abra um terminal e navegue até o diretório onde o script `badblocks.py` está localizado.
    - Execute o script usando o seguinte comando:
      ```
-     sudo python3 verificar_badblocks.py <caminho_do_dispositivo>
+     sudo python3 badblocks.py <caminho_do_dispositivo>
      ```
      Substitua `<caminho_do_dispositivo>` pelo caminho correto do dispositivo que você deseja verificar (por exemplo, `/dev/sda`).
 
